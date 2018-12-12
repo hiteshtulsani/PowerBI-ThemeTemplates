@@ -57,3 +57,6 @@ Adjust titles, backgrounds, report page tooltips, wallpaper, and more for some o
 - [Treemap](https://github.com/deldersveld/PowerBI-ThemeTemplates/blob/master/Treemap.json)  
 - [Waterfall](https://github.com/deldersveld/PowerBI-ThemeTemplates/blob/master/Waterfall.json)  
 
+### Sample File
+
+- [SampleBlue] (https://github.com/hiteshtulsani/PowerBI-ThemeTemplates/blob/master/SampleBlue.json)
